@@ -11,8 +11,7 @@ p_load(rio, # import/export data
        skimr, # summary data
        gridExtra, ## visualizing missing data
        corrplot, ## Correlation Plots 
-       stargazer, ## tables/output to TEX. 
-       MASS)   
+       stargazer)  ## tables/output to TEX.   
 
 
 ## Import data
